@@ -25,7 +25,7 @@ fn lyric_presentation(n: u32, more_than_one: bool) -> String {
     } else if n == 4 {
         "Four calling birds".to_string()
     } else if n == 5 {
-        "Five golden rings".to_string()
+        "Five golden rings (five golden rings)".to_string()
     } else if n == 6 {
         "Six geese a-laying".to_string()
     } else if n == 7 {
